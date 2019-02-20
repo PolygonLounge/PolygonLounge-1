@@ -7,7 +7,7 @@ Polygon Lounge #1 アーカイブ
 - Houdiniを使った工芸デザイン〜自然形状の再現 - 堀川 淳一郎 - [Slide](https://docs.google.com/presentation/d/1BveSWdcmM8IdEjLPgZApiBa1Xx-csTMvAIa-19eZCh0)
 - Raymarching Fractals in VR - Nick Shelton - [Slide](https://docs.google.com/presentation/d/14gebjdeAblSn3193eWmcrq9Kfr0h5fiB45w1Dds__nM)
 - Unity+ARKitのクリエーティブコーティング的事例 - 北千住デザイン - [Slide](https://docs.google.com/presentation/d/1xxjXO9ay7tFBnDNa328HZXM5P5ifmdppKDBCVKLYSt8)
-- OP-Z + Unity = videolab - 高橋 啓治郎
+- OP-Z + Unity = videolab - 高橋 啓治郎 - [Slide](https://www.keijiro.tokyo/opz-talk-deck/index.html)
 
 ## スピーカー紹介
 
